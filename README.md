@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dnaej
-- 👀 I’m interested in Front-End Development, Mobile Development, Interior Design
+- 👀 I’m interested in Front-End Development, Mobile Development, UI Design & Interior Design
 - 🌱 I’m currently learning Interactive Media Design for my Bachelor's
 - 💞️ I’m looking to collaborate on Voice UI applications, Front-End Development
 - 📫 How to reach me 
